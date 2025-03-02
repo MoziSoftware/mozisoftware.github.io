@@ -25,4 +25,4 @@
   Whether you're a startup looking to build your first app or an established business seeking to enhance your mobile presence, Mozi Software is here to turn your vision into a reality. Let's create something extraordinary together!
 
 ## Contact Us
-Email: [mozisoftware@gmail.com](mozisoftware@gmail.com) 
+Email: mozisoftware@gmail.com
