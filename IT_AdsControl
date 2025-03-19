@@ -1,3 +1,1 @@
-["openAdControl": {
-    adShow = 0;
-}]
+{"openAdControl":{"adShow":false}}
