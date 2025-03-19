@@ -1,1 +1,3 @@
-"{\"openAdControl\":{\"adShow\":false}}"
+["openAdControl": {
+    adShow = 0;
+}]
